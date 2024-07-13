@@ -9,7 +9,7 @@ Special thanks to **Cordie** for helping me to connect it to a **CurveService**
 # Features:
 Supports **models** (works with pivot)
 Supports **localscripts**
-### Easy to use
+**Easy** to use
 Has **Quadratic bezier** tweens (curveservice)
 Has **string and number** interpolating function
 Has **custom tweens** (from 1.5.1) that work like normal tweens
